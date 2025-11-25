@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include "fatorial.c"
+#include <assert.h>
 
 int main(){
     assert(fatorial(8) == 40320);
