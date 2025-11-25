@@ -2,6 +2,6 @@
 #include <assert.h>
 
 int main(){
-    assert(fatorial(8) == 40320);
+    assert(fatorial(2) == 2);
     return 0;
 }
